@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  color: #3f1400;
+  text-align: center;
+  background-color: #F8ECD1;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+  margin: 10px auto 10px auto;
+  font-size: 5rem;
+  color: #A64B2A;
+  line-height: 1;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+margin: 20px auto 20px auto;
+font-family: 'Montserrat', sans-serif;
+color: #A64B2A;
+font-size: 2.625rem;
+line-height: 1;
+font-weight: normal;
+
+}
+
+h3 {
+  margin: 75px auto 10px auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+a {
+  color: #D7A86E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: none none dotted none;
+  border-width: 8px;
+  width: 5%;
+  color: #D7A86E;
+}
+
+.top-cloud {
+  position: absolute;
+  max-width: 140px;
+  top: 10px;
+  left: 65%;
+}
+
+.I-am {
+  margin-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  max-width: 140px;
+  left: 25%;
+  top: 160px;
+}
+
+.mountain {
+  max-width: 45%;
+  margin-top: 50px;
+}
+
+.profile {
+  margin:auto;
+  width: 30%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.webdev-gif {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.finance-gif {
+  width: 20%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-pic {
+  width: 150px;
+  margin-top: 80px;
+}
+
+.contact-me {
+  margin: 50px auto;
+  width: 40%;
+}
+
+.contact-me-para {
+  margin: 35px auto;
+
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  background-image: linear-gradient(to bottom, #D7A86E, #8E3200);
+  border-radius: 8px;
+  color: #3f1400;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to bottom, #D7A86Eb3, #8E3200b3);
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #A64B2A;
+  padding-top: 50px;
+  padding-bottom: 1px;
+
+}
+
+.footer-link {
+  color: #3f1400;
+  padding: 25px;
+  font-weight: bold;
+
+}
+
+.copyright {
+  margin: 25px auto;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
